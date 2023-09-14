@@ -6,7 +6,7 @@
 **Model:**  XGBoost classification model  
 **Particulars:** Hyperparameter tuning, imbalanced dataset, ROC curves, developed function which allows n-fold cross validation with over/under sampling applied; sampling applied only to the training sets
 
-## [Table of Contents:](https://github.com/data-demirli/machine-learning/blob/main/0.%20Classification%20(XGBoost)/Predicting%20User%20Calls.ipynb)
+## [Table of Contents:](https://github.com/data-demirli/machine-learning/blob/main/0.%20Classification%20(XGBoost)/Predicting_User_Calls.ipynb)
 * Section 1 - Exploring Datasets
 * Section 2 - Useful Functions
 * Section 3 - Data Preparation
