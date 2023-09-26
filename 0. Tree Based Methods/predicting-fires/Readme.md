@@ -3,7 +3,7 @@
 ## Summary:
 
 **Dataset:** The dataset is a list of building fire incidents in the city of Montreal spanning from Jan 2015 to Sept 2022. Includes features relating to the incident and to the corresponding census tract area, collected from multiple sources.  
-**Model:** Classifies the census tract areas (out of 540) which are expected to have a high number of fires per sq km in the following month. Random Forest and Logistic Regression model generated and compared.  
+**Model:** Classifies the census tract areas (out of 540) which are expected to have a high number of fires per sq km in the following month. Random Forest and Logistic Regression model generated and compared. XGBoost added in appendix.  
 **Particulars:** Feature engineering, feature selection, hyperparameter tuning, feature selection, imbalanced dataset, time lags, ROC curves
 
 ## [Table of Contents:](https://github.com/data-demirli/machine-learning/tree/main/0.%20Tree%20Based%20Methods/predicting-fires/predicting_fires_(xgboost_added).ipynb)
