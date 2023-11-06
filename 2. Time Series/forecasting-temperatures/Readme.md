@@ -6,7 +6,7 @@
 **Model:** Recurrent Neural Network which outputs the temperature value for the following day  
 **Particulars:** Time series cross-validation splits, sliding window with time lags, neural network with recurrent nodes (LSTM and GRU)
 
-## [Table of Contents:](https://github.com/data-demirli/machine-learning/tree/main/1.%20Time%20Series/forecasting-temperatures/forecasting_temperatures.ipynb)
+## [Table of Contents:](https://github.com/data-demirli/machine-learning/tree/main/2.%20Time%20Series/forecasting-temperatures/forecasting_temperatures.ipynb)
 
 * Section 1 - Data Exploration
 * Section 2 - Data Preparation and Preprocessing
